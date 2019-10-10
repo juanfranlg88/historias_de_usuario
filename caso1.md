@@ -6,7 +6,7 @@
 **Puntos estimados**: 6
 **Iteración**: 1
 
-**Responsable**: Daniel Leal
+**Responsable**: Secretario
 
 ### Descripción
 
