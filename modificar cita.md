@@ -1,4 +1,4 @@
-# # # historias_de_usuario
+# historias_de_usuario
 
 **Nombre**: Modificar cita
 
