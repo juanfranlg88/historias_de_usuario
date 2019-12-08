@@ -20,4 +20,4 @@ Como *secretario* quiero *guardar un archivo binario* con los *datos del pacient
 * El sistema debe generar el archivo.
 * El sistema mostrará un mensaje de error si no hay datos.
 * El sistema mostrará un mensaje de error si no existe ruta propuesta por el usuario.
-* El sistema mostrará un mensaje de error y volverá al mený si el usuario no es adminisrador.
+* El sistema mostrará un mensaje de error y volverá al menú si el usuario no es adminisrador.
