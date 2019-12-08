@@ -3,8 +3,8 @@
 **Nombre**: Modificar tratamiento
 
 **Prioridad** (de 1 a 10): 7  
-**Puntos estimados**: 10
-**Iteración**: 6+
+**Puntos estimados**: 5
+**Iteración**: 6
 
 **Responsable**: Secretario
 
