@@ -2,7 +2,7 @@
 
 **Nombre**: Añadir nuevo tratamiento
 
-**Prioridad** (de 1 a 10): 7  
+**Prioridad** (de 1 a 10): 8 
 **Puntos estimados**: 10
 **Iteración**: 4
 
