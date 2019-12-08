@@ -3,7 +3,7 @@
 **Nombre**: Modificar cita
 
 **Prioridad** (de 1 a 10): 7  
-**Puntos estimados**: 10
+**Puntos estimados**: 6
 **Iteración**: 7
 
 **Responsable**: Secretario
@@ -14,11 +14,9 @@ Como *secretario* quiero *administrar las citas* con la capacidad de *modificarl
 
 ### Validación
 
-* El tratamiento debe de haber llegado a su fin.
-* El tratamiento llegado a su fin no se borra, se debe archivar como historial médico.
-* El nuevo tratamiento introducido debe de quedar guardado en el sistema.
-* Debe de existir un cuadro de diálogo de búsqueda en el menú principal para buscar el tratamiento.
-* Se puede borrar cualquier tratamiento.
-* En el historial deben de quedar guardados todos los tratamientos de los pacientes.
-* El tratamiento se debe de encontrar en el historial cuando haya terminado el proceso.
+* Se puede moficiar la cita si hay algun error dentro de la misma.
+* La fecha y características de la cita a modificar solamente puede ser modificada por personal autorizado.
+* Los cambios realizados en la cita por el personal autorizado quedaran actualizados.
+* El secretario no debe modificar la cita sin consentimiento del administrador.
+* No se puede guardar una cita incompleta, la cita debe de guardarse con todas sus características rellenas.
 * Si el paciente no está registrado debe lanzarse un mensaje de alerta.
